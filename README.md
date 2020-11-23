@@ -19,3 +19,4 @@ export `AWS_SHARED_CREDENTIALS_FILE`
 ```sh
 export AWS_SHARED_CREDENTIALS_FILE=~/.aws/config
 ```
+# pycon-china-2020-demo
